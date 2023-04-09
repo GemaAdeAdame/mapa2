@@ -1,0 +1,29 @@
+
+#map { 
+    height: 380px;
+    max-width: 380px;
+    min-width: 80px;
+    margin: 10px;
+}
+
+.invisible{
+    opacity: 0%;
+    height: 1px;
+}
+
+.visualizacionUbicacion{
+    height: 20px;
+    margin:auto;
+}
+
+.ubicacion{
+    max-width: 400px;
+    min-width: 80px;
+    height: 35px;
+    display: block;
+    border-radius: 5px;
+    border: 1px solid #cdcccc;
+    /* background-color: #E9ECEF; */
+    padding: 4px;
+
+}
